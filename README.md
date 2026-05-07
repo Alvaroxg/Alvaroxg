@@ -1,4 +1,21 @@
-## Hi there 👋
+# Olá, sou o Álvaro! 👋
+
+🎓 Estudante de Sistemas de Informação  
+📍 São Paulo, Brasil  
+💼 Trabalhando na INNOVA  
+🎮 Apaixonado por games e tecnologia  
+💡 Objetivo: usar tecnologia para resolver problemas reais e impactar pessoas  
+
+## 🚀 Sobre mim
+Estou no início da minha jornada em T.I, comprometido em
+aprender e evoluir todo dia. Acredito que tecnologia existe
+pra facilitar a vida das pessoas.
+
+## 🔨 Em breve
+Primeiros projetos chegando em breve...
+
+## 📫 Contato
+Me encontre no LinkedIn: www.linkedin.com/in/alvaro-sales-tecnologia
 
 <!--
 **Alvaroxg/Alvaroxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
