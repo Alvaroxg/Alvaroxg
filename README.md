@@ -19,7 +19,7 @@ Primeiros projetos chegando em breve...
 ## 📫 Contato
 Me encontre no LinkedIn: www.linkedin.com/in/alvaro-sales-tecnologia
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,windows,python&theme=dark)](https://skillicons.dev)
 
 <!--
 **Alvaroxg/Alvaroxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
