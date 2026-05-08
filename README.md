@@ -19,7 +19,7 @@ Primeiros projetos chegando em breve...
 ## 📫 Contato
 Me encontre no LinkedIn: www.linkedin.com/in/alvaro-sales-tecnologia
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,windows,python&theme=dark)](https://skillicons.dev)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-FF6B6B?logo=anthropic&logoColor=white)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FF0000&section=footer"/>
 <!--
