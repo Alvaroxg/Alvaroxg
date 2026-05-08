@@ -27,7 +27,8 @@ Me encontre no LinkedIn: www.linkedin.com/in/alvaro-sales-tecnologia
 [![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvaro-sales-tecnologia)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alvaroxg&theme=dark&background=0D1117&border=c0392b&ring=c0392b&fire=c0392b)](https://git.io/streak-stats)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Alvaroxg&theme=dark&background=0D1117&border=c0392b&ring=c0392b&fire=c0392b&currStreakLabel=ffffff&sideLabels=ffffff)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FF0000&section=footer"/>
 
