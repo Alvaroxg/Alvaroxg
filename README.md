@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FF0000%20"/>
+
 # Olá, sou o Álvaro! 👋
 
 🎓 Estudante de Sistemas de Informação  
