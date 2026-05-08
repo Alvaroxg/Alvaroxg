@@ -21,6 +21,7 @@ Me encontre no LinkedIn: www.linkedin.com/in/alvaro-sales-tecnologia
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,windows,python&theme=dark)](https://skillicons.dev)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FF0000&section=footer"/>
 <!--
 **Alvaroxg/Alvaroxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
