@@ -19,8 +19,7 @@ Primeiros projetos chegando em breve...
 ## 📫 Contato
 Me encontre no LinkedIn: www.linkedin.com/in/alvaro-sales-tecnologia
 
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -28,7 +27,6 @@ Me encontre no LinkedIn: www.linkedin.com/in/alvaro-sales-tecnologia
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvaro-sales-tecnologia)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Alvaroxg&theme=dark&background=0D1117&border=c0392b&ring=c0392b&fire=c0392b&currStreakLabel=ffffff&sideLabels=ffffff)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FF0000&section=footer"/>
 
