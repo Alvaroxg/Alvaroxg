@@ -13,8 +13,13 @@ Estou no início da minha jornada em T.I, comprometido em
 aprender e evoluir todo dia. Acredito que tecnologia existe
 pra facilitar a vida das pessoas.
 
-## 🔨 Em breve
-Primeiros projetos chegando em breve...
+## 🚀 Projetos
+
+**[Organizador de Arquivos](https://github.com/Alvaroxg/organizador-de-arquivos)**
+Script em Python que organiza automaticamente os arquivos de uma pasta,
+separando cada um em subpastas por tipo (Imagens, Documentos, Vídeos...).
+Meu primeiro projeto — aprendi Python e Git construindo algo útil, e ainda
+adicionei um modo simulação que mostra o que seria feito antes de mover.
 
 ## 📫 Contato
 Me encontre no LinkedIn: www.linkedin.com/in/alvaro-sales-tecnologia
